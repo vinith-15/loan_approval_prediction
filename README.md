@@ -27,5 +27,7 @@ Built using:
 - Target: Loan Approved (Yes/No)
 
 ---
+## Screenshot
+<img width="1519" height="930" alt="image" src="https://github.com/user-attachments/assets/2d54c9ab-2168-40ba-a0ae-abe9da89871f" />
 
 
